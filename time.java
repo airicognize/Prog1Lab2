@@ -11,6 +11,6 @@ public class time{
         double minutes = seconds/60;
         int secondleft = seconds%60;
 
-        System.out.print((int)minutes + ":" + secondleft + ".");
+        System.out.println((int)minutes + ":" + secondleft + ".");
     }
 }
