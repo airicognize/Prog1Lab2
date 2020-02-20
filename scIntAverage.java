@@ -1,3 +1,7 @@
+/*
+This program is used to make an average of 4 whole numbers that the user has stated.
+*/
+
 import java.util.*;
 
 public class scIntAverage{
