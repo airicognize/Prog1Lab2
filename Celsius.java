@@ -1,3 +1,7 @@
+/*
+This program is used to calculate the average temperature in Celsius.
+*/
+
 import java.util.*;
 
 public class Celsius{
