@@ -1,3 +1,7 @@
+/*
+This program is used to format your first and last name in a specific way even if you were to
+write it with a bunch of uppercases and lowercases.
+*/
 import java.util.*;
 
 public class Name{
