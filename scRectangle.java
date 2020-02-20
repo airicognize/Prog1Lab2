@@ -1,3 +1,7 @@
+/*
+This program calculates the area and the perimeter of the given length and width of a rectangle.
+*/
+
 import java.util.*;
 
 public class scRectangle{
