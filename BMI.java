@@ -1,3 +1,5 @@
+//This program is used to convert your weight in pounds to kgs and heigh from feet to meters in order to calculate your BMI.
+
 import java.util.*;
 
 public class BMI{
