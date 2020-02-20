@@ -1,3 +1,7 @@
+/*
+This program converts your meters to feet.
+*/
+
 import java.util.*;
 
 public class scDistance{
