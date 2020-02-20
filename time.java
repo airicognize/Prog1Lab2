@@ -1,3 +1,7 @@
+/*
+This program converts seconds into minutes:seconds.
+*/
+
 import java.util.*;
 
 public class time{
