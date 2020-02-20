@@ -1,5 +1,5 @@
 /*
-This program is used to calculate the average temperature in Celsius.
+This program is used to calculate the average temperature in Celsius in 3 days.
 */
 
 import java.util.*;
